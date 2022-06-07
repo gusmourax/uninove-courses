@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  database:
+    container_name: uninove_db
+    image: postgres:13.6
+    ports:
+      - "65432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=uninove
