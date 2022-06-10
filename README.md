@@ -1,6 +1,6 @@
 # Grupo
 
-- GUSTAVO MOURA DA SILVA FONSECA - RA 2221101845
+- GUSTAVO MOURA DA SILVA FONSECA - RA 2221101845 - [LinkedIn](https://www.linkedin.com/in/gustavomoura5555/)
 - CARLOS DANIEL DOS SANTOS - RA 2221100495
 - LEANDRO DELINGER - RA 2221102967
 - MARCIO HENRIQUE DA SILVA - RA 2221103242
@@ -16,19 +16,21 @@ relacionamento no banco de dados. O intuito dessa aplicação foi focar em tecno
 # Tecnologias utilizadas
 
 ### Projeto
-- [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [PrismaORM](https://www.prisma.io/)
+- [TypeScript (Linguagem)](https://www.typescriptlang.org/)
+- [NodeJS (Ambiente)](https://nodejs.org)
+- [Express (Framework)](https://expressjs.com/pt-br/)
+- [Prisma (ORM)](https://www.prisma.io/)
 - [Docker](https://www.docker.com/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [Winston](https://github.com/winstonjs/winston)
+- [Winston (Logs)](https://github.com/winstonjs/winston)
 
 ### Banco de dados
 - [PostgreSQL](https://www.postgresql.org/)
 
 ### Infra
-- [AWS EC2](https://aws.amazon.com/pt/ec2/)
+- [AWS (EC2)](https://aws.amazon.com/pt/ec2/)
+- [NGINX (Proxy Reverso)](https://www.nginx.com/)
 
 # API url
 
